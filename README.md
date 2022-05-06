@@ -7,8 +7,8 @@ We will made a request to the API and get the location coordinates.</h1>
 ```python
 python app.py
 ```
-```json
 CASE 1: JSON
+```json
 {
 "address": "# 3582,13 G Main Road,4th Cross Rd, Indiranagar,Bengaluru, Karnataka 560008",
 "output_format": "json"
@@ -56,5 +56,5 @@ Karnataka 560008, India</address>
 "Invalid output format"
 ```
 
-### References:
+## References:
 https://developers.google.com/maps/documentation/geocoding/start
