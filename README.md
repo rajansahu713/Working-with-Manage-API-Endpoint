@@ -7,7 +7,8 @@ We will made a request to the API and get the location coordinates.</h1>
 ```python
 python app.py
 ```
-CASE 1: JSON
+`CASE 1: JSON`
+
 ```json
 {
 "address": "# 3582,13 G Main Road,4th Cross Rd, Indiranagar,Bengaluru, Karnataka 560008",
